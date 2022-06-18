@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifekicky shoes.iml" filepath="$PROJECT_DIR$/.idea/modules/lifekicky shoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lifekicky_shoes.iml" filepath="$PROJECT_DIR$/.idea/modules/lifekicky_shoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/lifekicky_shoes.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/lifekicky_shoes.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/lifekicky_shoes.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/lifekicky_shoes.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/lifekicky_shoes.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/lifekicky_shoes.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/lifekicky_shoes.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/lifekicky_shoes.app.unitTest.iml" />
     </modules>
   </component>
 </project>
